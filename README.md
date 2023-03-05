@@ -1,4 +1,4 @@
-### <center>只是个观察者而已。</center>
+### 只是个观察者而已。
 
 <!--
 **ZoruaFox/ZoruaFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
