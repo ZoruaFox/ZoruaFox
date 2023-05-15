@@ -1,5 +1,8 @@
 ### 只是个观察者而已。
-![img](./github-metrics.svg)
+[<img align="left" width="390" alt="GitHub basic" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox/main/github-basic.svg" />](#)
+[<img align="left" width="390" alt="GitHub basic" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox/main/github-steam.svg" />](#)
+[<img align="right" width="390" alt="GitHub language" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox/main/github-languages.svg" />](#)
+[<img align="right" width="390" alt="GitHub language" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox/main/github-ysdag.svg" />](#)
 <!--
 **ZoruaFox/ZoruaFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
