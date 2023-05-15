@@ -17,10 +17,7 @@ jobs:
             with:
               filename: github-basic.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              template: classic
               config_timezone: Asia/Shanghai
-              output_action: gist
-              committer_gist: ${{ vars.GIST_ID }}
               base: header, activity, community, repositories, metadata
               base_indepth: yes
               plugin_achievements: yes
@@ -36,10 +33,7 @@ jobs:
             with:
               filename: github-languages.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              template: classic
-              config_timezone: Asia/Singapore
-              output_action: gist
-              committer_gist: ${{ vars.GIST_ID }}
+              config_timezone: Asia/Shanghai
               base: ""
               plugin_introduction: yes
               plugin_introduction_title: yes
@@ -67,11 +61,7 @@ jobs:
             with:
               filename: github-ysdag.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              template: classic
-              config_timezone: Asia/Singapore
-              output_action: gist
-              committer_gist: ${{ vars.GIST_ID }}
-              config_padding: 0, 8
+              config_timezone: Asia/Shanghai
               base: ""
               plugin_pagespeed: yes
               plugin_pagespeed_detailed: yes
@@ -90,10 +80,7 @@ jobs:
             with:
               filename: github-steam.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              template: classic
-              config_timezone: Asia/Singapore
-              output_action: gist
-              committer_gist: ${{ vars.GIST_ID }}
+              config_timezone: Asia/Shanghai
               base: ""
               plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
               plugin_steam: yes
