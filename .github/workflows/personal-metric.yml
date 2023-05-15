@@ -1,4 +1,4 @@
-name: 个人数据更新
+name: update metrics info
 on:
   schedule: [{cron: "0 5 * * *"}]
   push:
@@ -10,8 +10,10 @@ jobs:
     metrics:
         name: Update metrics
         runs-on: ubuntu-latest
+        permissions:
+           contents: write
         steps:
-          - name: 生成基本资料
+          - name: basic
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
@@ -27,7 +29,7 @@ jobs:
               plugin_followup: yes
               plugin_followup_archived: yes
               plugin_followup_sections: repositories
-          - name: 生成使用语言等
+          - name: language
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
@@ -55,7 +57,7 @@ jobs:
               plugin_lines_history_limit: 1
               plugin_lines_repositories_limit: 4
               plugin_lines_sections: base
-          - name: 生成档案馆信息推特等
+          - name: yslib
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
@@ -74,7 +76,7 @@ jobs:
               plugin_tweets_attachments: yes
               plugin_tweets_limit: 1
               plugin_tweets_user: FoxZorua
-          - name: 生成Steam和一堆杂项
+          - name: steam
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
             with:
