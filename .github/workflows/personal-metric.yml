@@ -26,6 +26,7 @@ jobs:
 
           # Options
           user: ZoruaFox
+          config_display: columns
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
