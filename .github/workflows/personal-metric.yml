@@ -56,6 +56,7 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://wiki.zorua.top/wiki/%E6%9C%89%E5%85%BD%E6%A1%A3%E6%A1%88%E9%A6%86:%E9%A6%96%E9%A1%B5
