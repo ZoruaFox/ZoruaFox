@@ -1,6 +1,6 @@
 name: update metrics info
 on:
-  schedule: [{cron: "0 5 * * *"}]
+  schedule: [{cron: "0 0 * * 1"}]
   push:
       branches:
             - main
