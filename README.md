@@ -1,5 +1,5 @@
 
-### 只是个观察者而已。
+# <div align="center">保持热爱，奔赴山海</div>
 <div align="center">
   你好，我是Zorua Fox</br>
   目前负责国内漫画IP《有兽焉》粉丝百科全书“有兽档案馆”项目责任运营，兼档案理事员。</br>
