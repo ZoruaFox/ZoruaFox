@@ -51,7 +51,7 @@ jobs:
               plugin_languages_threshold: 0%
               plugin_fortune: yes
               plugin_rss: yes
-              plugin_rss_source: https://youshou.wiki/api.php?hidebots=1&urlversion=1&days=30&limit=50&action=feedrecentchanges&feedformat=atom
+              plugin_rss_source: https://youshou.wiki/api.php?hidebots=1&urlversion=1&days=30&limit=50&action=feedrecentchanges&feedformat=atom&homo=114514
               plugin_lines: yes
               plugin_lines_history_limit: 1
               plugin_lines_repositories_limit: 4
