@@ -23,8 +23,6 @@ jobs:
               base: header, activity, community, repositories, metadata
               base_indepth: yes
               plugin_achievements: yes
-              plugin_achievements_display: detailed
-              plugin_achievements_secrets: yes
               plugin_followup: yes
               plugin_followup_archived: yes
               plugin_followup_sections: repositories
@@ -52,6 +50,8 @@ jobs:
               plugin_languages_sections: most-used
               plugin_languages_threshold: 0%
               plugin_fortune: yes
+              plugin_rss: yes
+              plugin_rss_source: https://youshou.wiki/api.php?hidebots=1&urlversion=1&days=30&limit=50&action=feedrecentchanges&feedformat=atom
               plugin_lines: yes
               plugin_lines_history_limit: 1
               plugin_lines_repositories_limit: 4
@@ -72,10 +72,6 @@ jobs:
               plugin_people_limit: 24
               plugin_people_size: 28
               plugin_people_types: followers, following
-              plugin_tweets: yes
-              plugin_tweets_attachments: yes
-              plugin_tweets_limit: 1
-              plugin_tweets_user: FoxZorua
           - name: steam
             if: ${{ success() || failure() }}
             uses: lowlighter/metrics@latest
