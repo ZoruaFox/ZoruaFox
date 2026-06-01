@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="526" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="557" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            815 hours played
+                            868 hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        208 hours played
+                                        260 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 25 May 2026
+                                        Last played on 1 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            106 / 297 achievements unlocked
+                                            115 / 297 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQT/xAAsEAACAQMDAwMEAQUAAAAAAAABAgMEBREGEiEABzETQWEIIlGRFDNCcYLx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREjFR/9oADAMBAAIRAxEAPwCd9Haejv8AJVLJUtB6IUjam7dkn5+OjvSPaWC86koqGe6slKxL1EhiChI1GSc7vwOhbttKsU9a2MFUBLewGc8/o9Un2505CLDHfL8kcFuqW3E1IK7UDYQ/7MPHJ56kr1kqFedfYOD6eNN3Cjkktd7rpZpJjHHsVdkK44Z85OMc8ecgD8hed4u0lHoWxRXOju/8iOSpSmjjlULJNlWLSBc/aoKgfO78YzTOlohp+a51dXFJTQz4WjlqAyR7CxI3Z58D3APkAc8o/wCpDWlDerQ1uoImmBqkklr5Vw0jIrAIq/2Rjc3Hxzzkl7BnyKftlStW3OemR9jzKIw23OzyS2PgA/vqsbfq+yy0Vmvd1qKSg05bAyW6gLepUTTINgdwPtDL92F5wTuJzjqae22prBpvR98krIo3vc8qLCxQmRYwp/ptng7jyTxge+cdY9w1s10qo56+Ah0jEQ9MAKoGcBV8Af4/HQto6EdeUBcjp7ldzqrVFZPTUipT2xAqRNC53OvkhjjkZx4449+kxruZWt9MmcN6uQPjH/OuaXUtOUIRZgfGdo8fvrNvl2guFMscSuGV8gsB4wfnqdS7YUlbNCiVZ//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABgcIBP/EACwQAAIBAwMDAgYCAwAAAAAAAAECAwQFEQAGIRIxQQcTFCJRcYGRFWFiocH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAgME/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAEhH/2gAMAwEAAhEDEQA/AJ72Zt2C/wDxfv1MkPs9GAig5zn6/bRBL6eU6I5WvmYquQPbHJ/esPppII2riAQ2FGc8eeNMqKlaXb1fdTKix01THTlCQCQ6k9X4PT+z9NUVSV4bRESyLhnf3plS2fcVXR0tUEVPaVEjUleY1JOWJPcnv/f20Gbv2zT2Klp5Iat5nkcr0soHGO45087xP/N7NTcNZ0rcKWuW2yOg4nBUsCR4IH/fGAFL6kSK1BTL9ZMj8Dt/vSW9eYYOV2L0zopq6vempOhqqeRIoldgo6jnye2qK2JsjcFnvVXSXSqtMdueBJZYZ4/i4arLMijHylcYILf5Dv21MWy9yvta6Q3GmgWaqglSVFkAKHHgg+Dk6eVB68Wy8bq928RNbLQ9tEMg+HFQwqSwZnUc/KD1dOc4z250se0uj35IYquWzr9uO2VFJZ6ayWKxW2skWCgWoYtUzDKmZpCMnyAWxgeNTpv+RfbpoiQZEkcccjjg8/fTas/r1arPHeopbVJcZ5q2pemqOkCNYW5iCoxyqhlXKHwe4xgou+3hbnGvyMsnWXJOMc98fnRy9Dns5Tf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Shine On</div>
-                                                <div class="unlocked">25 May 2026</div>
+                                                <div>Broken Bodies</div>
+                                                <div class="unlocked">1 Jun 2026</div>
                                             </div>
-                                            <div class="description">In public matches, blind the Killer with a flashlight 30 times.</div>
+                                            <div class="description">In public matches, hook a Survivor while 3 other Survivors are injured, 10 times.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAArEAACAQIFAwMFAAMAAAAAAAABAgMEEQAFBhIhBxMxIkFRFEJhcYEjkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwAV6NaPyzWWoXoc3mrY1sO2tKF3O3Jsb/ge2FfV3SLTmT6QqjBA8eYlQEkmEjSghwCdtwBxfyME3Seqnoa+epop2pquJkMU4lEe088BiQLkX/mGyhyepzrZUZ3WVFctwwiicxq1/JeZhc2+FB/eM3p3LQ5MGJMq6WPmtdFSUdcRJIwUvKoVE+bm/J+FHOKHX+koNMSlEnnaQTtEYplAYAX54/X/AHGrociqIcukijWCmpkNjDDSrsQLy19/qb7bn83BuLYF+vOm6paUVkNOFSE7qg948W9IsjjcBz7Fv5gLHKJ0GyJ/pnzyNN0ySvEkXdQCUKAWup597cEX/wB4eqetUUuZVr5hFRiguFjdQBOLeB8Mb7fVu8+DjHmjNTy6XrfrKWMyTB1bYzERuB7OPcX5wqdOup+mDF2eoUFbXoO4ipLEk8UanaUK+G3g7+STYH5wR2CBOE+aGB5lneciL/I5DrHuJcrYEAW8eDfHDdape70xzYTGeoEZisrsLbmcMrggfaLi3g3/AFivz3q/oihohPpKCWHNaS3YLQ+iYXNwylSpNmYgnkex5wNa16k53qnK1y6sq3WgE3e+kijWKFWt9qr48k2vbk4po0cS/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwYEAQUI/8QAKhAAAgIBAgUDBAMBAAAAAAAAAQIDBBEFEgAGBxMhFDFRIjJhcRZBkTT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAZEQADAQEBAAAAAAAAAAAAAAABERIAAiH/2gAMAwEAAhEDEQA/AALkLlJOanswxzWPVxFdkEMO9pAQxJH62+R8cWVvpDX0+vVbVdbapYnf/kMAeykeMiQxA7vP9D48nHjjnoHTNS0/MVm7ptKjRuRKz3JDmQgFyixr9TNtU4HjJ/R4Qa1mtb6hDRaMl6rpsqtZl7ExisWmZRIkZkGWCKrqoUEABScjOeMyS9oAFo2bozWr2mku6xp8dWvC5nWG6hYmNPvHhmw7FfAUlckEDHEHzvy1p2g1Q9K1NO8s+1A+MCPZn4BJ3ePYf6eHXmnSJ4KPppqV67AkE12prdmTvLuUb/Tq48lNiuPr+otggAe5F1VganUrV5nJd2Wbay4eMlfsYe4I8nH5HzxUWsyJe3dBo9PsfyClq+qTUK16BKyERgxd3LMrSMRhQNuPH1HeQP74YOWuzoFxks1qesXq1Vktajp7ySxywwBR2y6AsrpkbgFO8KufA8+YuX9ek0dH7ZlLbxIgDDarYI3YPjdg++MjjvtL6h3dN0yehREtSGxIkkzwOA77MFATjOFYbhgjBJ+eDqm1nmZTzjat6ZdgsXqSnRNFvySWbGod6QCdvJda4kIMkzFdmQqhAxxnOeBnqzrcOsejaGl6QCaaUK0vcdt7bjkhQPBJ/ZJPGzWOrep6ry/Q0u1NckFUkd12RmcZJ9yMg4ODg+doz7cRPMGtJqkECCEI0XjcFVdw/OPc/n/eAVQ0ZHJ93//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ancestor's Rite</div>
-                                                <div class="unlocked">17 May 2026</div>
+                                                <div>Neither Seen Nor Heard</div>
+                                                <div class="unlocked">29 May 2026</div>
                                             </div>
-                                            <div class="description">In a public match, repair the generator in the Family Residence and live to tell the tale.</div>
+                                            <div class="description">Apply the Oblivious status effect to Survivors 30 times in public matches.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+104 others...</div>
+                                            <div class="description ellipsis">+113 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        208 hours played
+                                        260 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 25 May 2026
+                                        Last played on 1 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            106 / 297 achievements unlocked
+                                            115 / 297 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQT/xAAsEAACAQMDAwMEAQUAAAAAAAABAgMEBREGEiEABzETQWEIIlGRFDNCcYLx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIREjFR/9oADAMBAAIRAxEAPwCd9Haejv8AJVLJUtB6IUjam7dkn5+OjvSPaWC86koqGe6slKxL1EhiChI1GSc7vwOhbttKsU9a2MFUBLewGc8/o9Un2505CLDHfL8kcFuqW3E1IK7UDYQ/7MPHJ56kr1kqFedfYOD6eNN3Cjkktd7rpZpJjHHsVdkK44Z85OMc8ecgD8hed4u0lHoWxRXOju/8iOSpSmjjlULJNlWLSBc/aoKgfO78YzTOlohp+a51dXFJTQz4WjlqAyR7CxI3Z58D3APkAc8o/wCpDWlDerQ1uoImmBqkklr5Vw0jIrAIq/2Rjc3Hxzzkl7BnyKftlStW3OemR9jzKIw23OzyS2PgA/vqsbfq+yy0Vmvd1qKSg05bAyW6gLepUTTINgdwPtDL92F5wTuJzjqae22prBpvR98krIo3vc8qLCxQmRYwp/ptng7jyTxge+cdY9w1s10qo56+Ah0jEQ9MAKoGcBV8Af4/HQto6EdeUBcjp7ldzqrVFZPTUipT2xAqRNC53OvkhjjkZx4449+kxruZWt9MmcN6uQPjH/OuaXUtOUIRZgfGdo8fvrNvl2guFMscSuGV8gsB4wfnqdS7YUlbNCiVZ//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABgcIBP/EACwQAAIBAwMDAgYCAwAAAAAAAAECAwQFEQAGIRIxQQcTFCJRcYGRFWFiocH/xAAXAQEAAwAAAAAAAAAAAAAAAAABAgME/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQIAEhH/2gAMAwEAAhEDEQA/AJ72Zt2C/wDxfv1MkPs9GAig5zn6/bRBL6eU6I5WvmYquQPbHJ/esPppII2riAQ2FGc8eeNMqKlaXb1fdTKix01THTlCQCQ6k9X4PT+z9NUVSV4bRESyLhnf3plS2fcVXR0tUEVPaVEjUleY1JOWJPcnv/f20Gbv2zT2Klp5Iat5nkcr0soHGO45087xP/N7NTcNZ0rcKWuW2yOg4nBUsCR4IH/fGAFL6kSK1BTL9ZMj8Dt/vSW9eYYOV2L0zopq6vempOhqqeRIoldgo6jnye2qK2JsjcFnvVXSXSqtMdueBJZYZ4/i4arLMijHylcYILf5Dv21MWy9yvta6Q3GmgWaqglSVFkAKHHgg+Dk6eVB68Wy8bq928RNbLQ9tEMg+HFQwqSwZnUc/KD1dOc4z250se0uj35IYquWzr9uO2VFJZ6ayWKxW2skWCgWoYtUzDKmZpCMnyAWxgeNTpv+RfbpoiQZEkcccjjg8/fTas/r1arPHeopbVJcZ5q2pemqOkCNYW5iCoxyqhlXKHwe4xgou+3hbnGvyMsnWXJOMc98fnRy9Dns5Tf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Shine On</div>
-                                                <div class="unlocked">25 May 2026</div>
+                                                <div>Broken Bodies</div>
+                                                <div class="unlocked">1 Jun 2026</div>
                                             </div>
-                                            <div class="description">In public matches, blind the Killer with a flashlight 30 times.</div>
+                                            <div class="description">In public matches, hook a Survivor while 3 other Survivors are injured, 10 times.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwQFCAb/xAArEAACAQIFAwMFAAMAAAAAAAABAgMEEQAFBhIhBxMxIkFRFEJhcYEjkaH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwAV6NaPyzWWoXoc3mrY1sO2tKF3O3Jsb/ge2FfV3SLTmT6QqjBA8eYlQEkmEjSghwCdtwBxfyME3Seqnoa+epop2pquJkMU4lEe088BiQLkX/mGyhyepzrZUZ3WVFctwwiicxq1/JeZhc2+FB/eM3p3LQ5MGJMq6WPmtdFSUdcRJIwUvKoVE+bm/J+FHOKHX+koNMSlEnnaQTtEYplAYAX54/X/AHGrociqIcukijWCmpkNjDDSrsQLy19/qb7bn83BuLYF+vOm6paUVkNOFSE7qg948W9IsjjcBz7Fv5gLHKJ0GyJ/pnzyNN0ySvEkXdQCUKAWup597cEX/wB4eqetUUuZVr5hFRiguFjdQBOLeB8Mb7fVu8+DjHmjNTy6XrfrKWMyTB1bYzERuB7OPcX5wqdOup+mDF2eoUFbXoO4ipLEk8UanaUK+G3g7+STYH5wR2CBOE+aGB5lneciL/I5DrHuJcrYEAW8eDfHDdape70xzYTGeoEZisrsLbmcMrggfaLi3g3/AFivz3q/oihohPpKCWHNaS3YLQ+iYXNwylSpNmYgnkex5wNa16k53qnK1y6sq3WgE3e+kijWKFWt9qr48k2vbk4po0cS/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABwYEAQUI/8QAKhAAAgIBAgUDBAMBAAAAAAAAAQIDBBEFEgAGBxMhFDFRIjJhcRZBkTT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAP/xAAZEQADAQEBAAAAAAAAAAAAAAABERIAAiH/2gAMAwEAAhEDEQA/AALkLlJOanswxzWPVxFdkEMO9pAQxJH62+R8cWVvpDX0+vVbVdbapYnf/kMAeykeMiQxA7vP9D48nHjjnoHTNS0/MVm7ptKjRuRKz3JDmQgFyixr9TNtU4HjJ/R4Qa1mtb6hDRaMl6rpsqtZl7ExisWmZRIkZkGWCKrqoUEABScjOeMyS9oAFo2bozWr2mku6xp8dWvC5nWG6hYmNPvHhmw7FfAUlckEDHEHzvy1p2g1Q9K1NO8s+1A+MCPZn4BJ3ePYf6eHXmnSJ4KPppqV67AkE12prdmTvLuUb/Tq48lNiuPr+otggAe5F1VganUrV5nJd2Wbay4eMlfsYe4I8nH5HzxUWsyJe3dBo9PsfyClq+qTUK16BKyERgxd3LMrSMRhQNuPH1HeQP74YOWuzoFxks1qesXq1Vktajp7ySxywwBR2y6AsrpkbgFO8KufA8+YuX9ek0dH7ZlLbxIgDDarYI3YPjdg++MjjvtL6h3dN0yehREtSGxIkkzwOA77MFATjOFYbhgjBJ+eDqm1nmZTzjat6ZdgsXqSnRNFvySWbGod6QCdvJda4kIMkzFdmQqhAxxnOeBnqzrcOsejaGl6QCaaUK0vcdt7bjkhQPBJ/ZJPGzWOrep6ry/Q0u1NckFUkd12RmcZJ9yMg4ODg+doz7cRPMGtJqkECCEI0XjcFVdw/OPc/n/eAVQ0ZHJ93//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ancestor's Rite</div>
-                                                <div class="unlocked">17 May 2026</div>
+                                                <div>Neither Seen Nor Heard</div>
+                                                <div class="unlocked">29 May 2026</div>
                                             </div>
-                                            <div class="description">In a public match, repair the generator in the Family Residence and live to tell the tale.</div>
+                                            <div class="description">Apply the Oblivious status effect to Survivors 30 times in public matches.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+104 others...</div>
+                                            <div class="description ellipsis">+113 others...</div>
                                         </div>
                                     </div>
                                 </div>
