@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="526" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="557" class="">
     <defs>
         <style/>
     </defs>
@@ -33,13 +33,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"/>
                             </svg>
-                            Steam level 20
+                            Steam level 22
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            908 hours played
+                            955 hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        298 hours played
+                                        346 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Jun 2026
+                                        Last played on 15 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            120 / 297 achievements unlocked
+                                            130 / 297 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAIE/8QALhAAAgEDAgUDAwMFAAAAAAAAAQIDBAURBiEABxIxQRMiUQgyQhRhcRYjcoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAREAAhJBIf/aAAwDAQACEQMRAD8AAuXOlqXVV0elrbiLdGCq+u4BRerIyx8DOP8AvFiuHK4UEzQVFwkWZC6uvpDKspxg7/wf3BB4jeUqPLc6mOGIPIyhcspYAE/A38eOHkaXvVru0NTcobcY4oStN+uZ/SD9Ps68BsqpPYnAwASBwViWhFqKpmH9i+nW8Xq0xXCkudGqyosiQyviQqfyOAQARuAf944lueHKfSeg9AW+amknS74CevJLk1cnc/284AG/bttufKcOYVNYxV0VxjWoeknEJeZI3aZzCX9UKh6VQt0qOnsDk5J4A+dV2uV+iF2vSMs1VKoQrGRGvSv2JnsAP5z578aFuSYKcvn0mWG2k1d0kqIZLiI+uGHuesFgBj5XAbHcllP48M/LtdQVc13/AKxFNNSO3XC2QVEa5HuTcK5x1H3E4PjjD2j9STaZrGq6RpVqMqV6GwNjnff589x4I40tp3nzY9Q6aWHVtW9DVU4JZAHzPgbDK7MP22JIAIGSeL2Z5O+cVHY6CvtlYgkgmkqHRxGPd6GM5PyyHGM7nqK/jwHcxLrBVWSniECwVLSe/wBEARy4H39B+xv8SAfjj2a85m02pZ0NPST00EGUhViGboJzljndtzv8nijXy7w3CmWONHBV+rLAdsHggLba8jE1wn7P/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFBhIxABMhByJBCBRhFTJRcaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAESESYf/aAAwDAQACEQMRAD8Az1ozTrGeEvvyXGexsrYkG7v+f66o2jvRYZyUX1SZS8VG3KkOoCEWQL7aVEmlGwODVk/HSL6f8Vo6Lpn9azsqGjIOOqQUSnwUoABo9s8+TfB/b+el2c9Ty1GjY/TMRiJjot93agbHyasp8AhN+bNEmupsaOmVUdCgJF9V+ncWJkFGI59uy6lCmW0PCQiiPJDtDcLB+PFEfHRXV+mY+Cix3GZa3luLKdqkgeK5Hnq1wcFntT93KQ4iHWluLK3O4htCVXauT48n/egvqtp3LwcKiROgOsR2nUgurKaJPgAebPzxfSqzExmRQPYR0NTYmPEjcnaACOOT1ps4WBpLQ64UmUtmRncegy5jja1st37gApKVJTtvg0Vcg8DrKemslEgP7ZzTy2HHEB3tKAUG791X81dfnq0Z/wBb4DmllY/DuZxMwtOQ1OPFCUOMqr3FKSElZAIvaCATyfPWKnomAMOQI70wlFsysbDSvurbeQpttDXeUr22ncKSbAHBq6IJBJHfUllEwMVExrsgvZR5xe73FQbb2gLBuwTYAH4vjoRpP1ck6fhuxWm31sgHsC07mST7tije0HnwLvgj5E6r1ArPPF50PF0uFVuL3ED4SD0VvMgat2f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Disarm and Dismember</div>
-                                                <div class="unlocked">7 Jun 2026</div>
+                                                <div>Silent Approach</div>
+                                                <div class="unlocked">14 Jun 2026</div>
                                             </div>
-                                            <div class="description">In public matches, hit 50 Survivors holding a Special Item.</div>
+                                            <div class="description">In public matches, interrupt and grab 25 Survivors while they are repairing generators.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwX/xAAuEAACAQIEBQMBCQAAAAAAAAABAgMEEQAFBiEHEhMxQRRRcQgVFiIjMkJSYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAaEQEAAgMBAAAAAAAAAAAAAAABABECEiFB/9oADAMBAAIRAxEAPwBBcPdJrq2vNH6h4ZmmihjCqGuZG5Rf4wwc34EVGXEzQZjJmGXiUxGoghCNdb8xMbG4A5WF97kbYz+ljKJM518ixMYhRlaySTb9KHZRfyWI/wAxQOp6BEyCVc5zv7tUcFQUZmS7vITvJG2xY8hCgAG1z3NsBuMrkmjVnDOLK84qadalowCnSQAEcjIGB5vNwQb/ADgV1fpmnyKlp5Yat5nkcqVZQNrd++Hrq+pj1NnUE2mKCvqaKlpIaTrdA/m8gKh9u1xYWO+2FRxTilpIIqWrieGoSX8SOLMp5b2Pts18Aydqmjga37D/AOkNjQZxnNaIFqZZo0pYollVZLg85IDbHsPI8998GvGXP+pr3IKqso5qJYqZ1AqCksdi5W7JY2ANw3m1rdsS/pjPpcgmeopDKlVcFHjfltbwcEep+JFXqfN/tDN4S03RSElXuSFFvbzcnFz28IcNRLZUUtUlNRyxKsVNBc9NqfqREm1woaIm1wdrgC48HCG45pTeikmWOH1EtcrM4Vi/N0iWux/buoAH8Te5x0dFcezlGRDJc5oJK+iA6SNcK4j8AkEEke9/bARxY13Dq6Wmpsvilhy2kdniWS3MzMBzMSPgAfH94oPGRTpP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAT/xAAuEAACAQMDAwMDAgcAAAAAAAABAgMEBREAEiEGBxMiQVExgZEUIzJSYXGCodH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGREAAwEBAQAAAAAAAAAAAAAAARESAAIh/9oADAMBAAIRAxEAPwDPPRfT9PfpKtamokh8Kqw2AHOSfnSJbe3VJQdMV1eTLVy1h/RU7GEMIv53A5GTwoORj21Vu1wXx3YPFhjEGjm+nqU7imf6ruP+Omzpm5RrLuorxU+QMqz0FPHsiC52moIHDDLbhj5AI41Ik0tUciWtDw9uLLDPebNa6eR4KqytJLNMoJhmixIHEjKSmcYKjGSfrjQx1X0xTWW2wVMNXJLJI4XYygcbSSR+P960x1XVeGiuFgspq1eedCZHTKtT49auR/Cd4B54IGM+2gzumKWO3JFSyNOqSANOoyrt6jgfCgZGR9SD7aKLGJEk6A7c1TUlRVSbhtBQ7SOARnB/GV/sx03dLXiOPt5fBaTRQ3G0M9Urun7k65bBc45ULlNv0ydZys1yS3CcmIyPIABzjGrBYuuqi0VxqaenwzQywMPJwyyIUIIxyOc4PGQNLodU1tcnmUT7nrvFVUyWXpqa2Vyt56aQVjh/XUO21zvPuB8ewZccHQ13Tr45qC300ZOUK5+yYUfZcfdm129edb09fa+mIIZDUCG3J5Qrg7JM7WU/B2xr+RqiXy8rcoAnjcPv3lmIPz/3SA6prD5hPf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Party Crasher</div>
-                                                <div class="unlocked">6 Jun 2026</div>
+                                                <div>Deadly Plunge</div>
+                                                <div class="unlocked">14 Jun 2026</div>
                                             </div>
-                                            <div class="description">In public matches, damage a generator while at least 1 Survivor is Hooked, 100 times.</div>
+                                            <div class="description">In public matches, as a Killer, fall a combined distance of 1000 meters.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+118 others...</div>
+                                            <div class="description ellipsis">+128 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        298 hours played
+                                        346 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 7 Jun 2026
+                                        Last played on 15 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            120 / 297 achievements unlocked
+                                            130 / 297 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwUGCAIE/8QALhAAAgEDAgUDAwMFAAAAAAAAAQIDBAURBiEABxIxQRMiUQgyQhRhcRYjcoGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGhEAAgMBAQAAAAAAAAAAAAAAAREAAhJBIf/aAAwDAQACEQMRAD8AAuXOlqXVV0elrbiLdGCq+u4BRerIyx8DOP8AvFiuHK4UEzQVFwkWZC6uvpDKspxg7/wf3BB4jeUqPLc6mOGIPIyhcspYAE/A38eOHkaXvVru0NTcobcY4oStN+uZ/SD9Ps68BsqpPYnAwASBwViWhFqKpmH9i+nW8Xq0xXCkudGqyosiQyviQqfyOAQARuAf944lueHKfSeg9AW+amknS74CevJLk1cnc/284AG/bttufKcOYVNYxV0VxjWoeknEJeZI3aZzCX9UKh6VQt0qOnsDk5J4A+dV2uV+iF2vSMs1VKoQrGRGvSv2JnsAP5z578aFuSYKcvn0mWG2k1d0kqIZLiI+uGHuesFgBj5XAbHcllP48M/LtdQVc13/AKxFNNSO3XC2QVEa5HuTcK5x1H3E4PjjD2j9STaZrGq6RpVqMqV6GwNjnff589x4I40tp3nzY9Q6aWHVtW9DVU4JZAHzPgbDK7MP22JIAIGSeL2Z5O+cVHY6CvtlYgkgmkqHRxGPd6GM5PyyHGM7nqK/jwHcxLrBVWSniECwVLSe/wBEARy4H39B+xv8SAfjj2a85m02pZ0NPST00EGUhViGboJzljndtzv8nijXy7w3CmWONHBV+rLAdsHggLba8jE1wn7P/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcI/8QAKhAAAQQBAwMDAwUAAAAAAAAAAQIDBBEFBhIxABMhByJBCBRhFTJRcaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAESESYf/aAAwDAQACEQMRAD8Az1ozTrGeEvvyXGexsrYkG7v+f66o2jvRYZyUX1SZS8VG3KkOoCEWQL7aVEmlGwODVk/HSL6f8Vo6Lpn9azsqGjIOOqQUSnwUoABo9s8+TfB/b+el2c9Ty1GjY/TMRiJjot93agbHyasp8AhN+bNEmupsaOmVUdCgJF9V+ncWJkFGI59uy6lCmW0PCQiiPJDtDcLB+PFEfHRXV+mY+Cix3GZa3luLKdqkgeK5Hnq1wcFntT93KQ4iHWluLK3O4htCVXauT48n/egvqtp3LwcKiROgOsR2nUgurKaJPgAebPzxfSqzExmRQPYR0NTYmPEjcnaACOOT1ps4WBpLQ64UmUtmRncegy5jja1st37gApKVJTtvg0Vcg8DrKemslEgP7ZzTy2HHEB3tKAUG791X81dfnq0Z/wBb4DmllY/DuZxMwtOQ1OPFCUOMqr3FKSElZAIvaCATyfPWKnomAMOQI70wlFsysbDSvurbeQpttDXeUr22ncKSbAHBq6IJBJHfUllEwMVExrsgvZR5xe73FQbb2gLBuwTYAH4vjoRpP1ck6fhuxWm31sgHsC07mST7tije0HnwLvgj5E6r1ArPPF50PF0uFVuL3ED4SD0VvMgat2f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Disarm and Dismember</div>
-                                                <div class="unlocked">7 Jun 2026</div>
+                                                <div>Silent Approach</div>
+                                                <div class="unlocked">14 Jun 2026</div>
                                             </div>
-                                            <div class="description">In public matches, hit 50 Survivors holding a Special Item.</div>
+                                            <div class="description">In public matches, interrupt and grab 25 Survivors while they are repairing generators.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAwX/xAAuEAACAQIEBQMBCQAAAAAAAAABAgMEEQAFBiEHEhMxQRRRcQgVFiIjMkJSYYH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAaEQEAAgMBAAAAAAAAAAAAAAABABECEiFB/9oADAMBAAIRAxEAPwBBcPdJrq2vNH6h4ZmmihjCqGuZG5Rf4wwc34EVGXEzQZjJmGXiUxGoghCNdb8xMbG4A5WF97kbYz+ljKJM518ixMYhRlaySTb9KHZRfyWI/wAxQOp6BEyCVc5zv7tUcFQUZmS7vITvJG2xY8hCgAG1z3NsBuMrkmjVnDOLK84qadalowCnSQAEcjIGB5vNwQb/ADgV1fpmnyKlp5Yat5nkcqVZQNrd++Hrq+pj1NnUE2mKCvqaKlpIaTrdA/m8gKh9u1xYWO+2FRxTilpIIqWrieGoSX8SOLMp5b2Pts18Aydqmjga37D/AOkNjQZxnNaIFqZZo0pYollVZLg85IDbHsPI8998GvGXP+pr3IKqso5qJYqZ1AqCksdi5W7JY2ANw3m1rdsS/pjPpcgmeopDKlVcFHjfltbwcEep+JFXqfN/tDN4S03RSElXuSFFvbzcnFz28IcNRLZUUtUlNRyxKsVNBc9NqfqREm1woaIm1wdrgC48HCG45pTeikmWOH1EtcrM4Vi/N0iWux/buoAH8Te5x0dFcezlGRDJc5oJK+iA6SNcK4j8AkEEke9/bARxY13Dq6Wmpsvilhy2kdniWS3MzMBzMSPgAfH94oPGRTpP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwUGCAT/xAAuEAACAQMDAwMDAgcAAAAAAAABAgMEBREAEiEGBxMiQVExgZEUIzJSYXGCodH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGREAAwEBAQAAAAAAAAAAAAAAARESAAIh/9oADAMBAAIRAxEAPwDPPRfT9PfpKtamokh8Kqw2AHOSfnSJbe3VJQdMV1eTLVy1h/RU7GEMIv53A5GTwoORj21Vu1wXx3YPFhjEGjm+nqU7imf6ruP+Omzpm5RrLuorxU+QMqz0FPHsiC52moIHDDLbhj5AI41Ik0tUciWtDw9uLLDPebNa6eR4KqytJLNMoJhmixIHEjKSmcYKjGSfrjQx1X0xTWW2wVMNXJLJI4XYygcbSSR+P960x1XVeGiuFgspq1eedCZHTKtT49auR/Cd4B54IGM+2gzumKWO3JFSyNOqSANOoyrt6jgfCgZGR9SD7aKLGJEk6A7c1TUlRVSbhtBQ7SOARnB/GV/sx03dLXiOPt5fBaTRQ3G0M9Urun7k65bBc45ULlNv0ydZys1yS3CcmIyPIABzjGrBYuuqi0VxqaenwzQywMPJwyyIUIIxyOc4PGQNLodU1tcnmUT7nrvFVUyWXpqa2Vyt56aQVjh/XUO21zvPuB8ewZccHQ13Tr45qC300ZOUK5+yYUfZcfdm129edb09fa+mIIZDUCG3J5Qrg7JM7WU/B2xr+RqiXy8rcoAnjcPv3lmIPz/3SA6prD5hPf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Party Crasher</div>
-                                                <div class="unlocked">6 Jun 2026</div>
+                                                <div>Deadly Plunge</div>
+                                                <div class="unlocked">14 Jun 2026</div>
                                             </div>
-                                            <div class="description">In public matches, damage a generator while at least 1 Survivor is Hooked, 100 times.</div>
+                                            <div class="description">In public matches, as a Killer, fall a combined distance of 1000 meters.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+118 others...</div>
+                                            <div class="description ellipsis">+128 others...</div>
                                         </div>
                                     </div>
                                 </div>
